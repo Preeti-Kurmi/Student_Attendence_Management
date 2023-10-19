@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+  }
+  
+  .date-selection {
+    
+    padding: 20px;
+  }
+  
+  #attendance-date {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  #search-btn {
+    background-color: #1292e9;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #student-list {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #mark-attendance-btn {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #attendance-data {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #fetch-report-btn {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    /* left: 298px; */
+    right: -1263px;
+    bottom: 101px;
+}
+  
+  #attendance-report {
+    
+    background-color: white;
+    border: 1px solid #ccc
+  }
